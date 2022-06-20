@@ -1,5 +1,4 @@
 # Pacman
-**Pacman** igrica razvijena u sklopu predmeta Ugradbeni sistemi na Elektrotehničkom fakultetu u Sarajevu.
-Izvedba igrice PACMAN je realizirana korištenjem Mbed simulatora. Za upravljanje igricom koristi se 5 tastera i ST7789H2+FT6x06 displej.
+**Pacman** igrica razvijena u sklopu predmeta Ugradbeni sistemi na Elektrotehničkom fakultetu u Sarajevu i pokreće se u sklopu Mbed simulatora http://mbed.webredirect.org/.
 
-Other files will be added soon.
+Dokumentacija i specifikacija se mogu pronaći na linku https://drive.google.com/drive/folders/1L6xj2AI7gY5sNDVYWeZunA2fITZAqsBD?usp=sharing
